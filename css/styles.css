@@ -1,1 +1,37 @@
+body{
+  background-color: #ecf4f3;
+}
 
+li{
+  padding:3px;
+}
+hr{
+
+  border-style:dotted none none none;
+border-color:grey;
+border-width:3px;
+  width:5%;
+}
+h1,h3{
+  color:#57a99a;
+}
+table.header{
+  border:1px;
+}
+table.header td{
+  border:1px; padding:10px;
+}
+table.skills{
+  border:1px;
+}
+table.skills td{
+  border:1px; padding:5px;
+}
+
+table.education{
+  border:1px solid black;
+}
+
+table.education td{
+border:1px solid black; padding:10px;
+}
